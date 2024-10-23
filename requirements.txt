@@ -1,0 +1,14 @@
+fpdf==2.7.0
+python-magic==0.4.27
+pyyaml==6.0.1
+typing-extensions==4.5.0
+concurrent-futures==3.0.5
+pathlib==1.0.1
+logging==0.5.1.2
+datetime==5.1
+argparse==1.4.0
+json==2.0.9
+re==2.2.1
+hashlib==20.0.1
+ssl==1.16.0
+socket==0.1.0
